@@ -1,0 +1,20 @@
+.loginText {
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.successMessage {
+    color: green;
+    font-weight: bold;
+}
+
+input.error {
+    border: 1px solid #EADAE4;
+  }
+  
+  .error {
+    color:#db2269;
+    font-size: 0.625em;
+    display: relative;
+  }
